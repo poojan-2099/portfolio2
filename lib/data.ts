@@ -7,17 +7,16 @@ export const GENERAL_INFO = {
     emailBody: 'Hi Poojan, I am reaching out to you because...',
 
     oldPortfolio: '',
-    resume: 'https://drive.google.com/file/d/1Ii9kEX9H1fY7xzIFGNAmPkEYwAn1gx2H/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1S-4sI9u5cp8ZRARNXHmTQa81Uqk_zAZr/view?usp=drive_link',
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/poojanpatel' },
+    { name: 'github', url: 'https://github.com/poojan-2099' },
     {
         name: 'linkedin',
-        url: 'https://www.linkedin.com/in/poojan-patel/',
+        url: 'https://www.linkedin.com/in/patelpoojan2099/',
     },
-    // { name: 'facebook', url: 'https://www.facebook.com/okhan945' },
-    { name: 'LeetCode', url: 'https://leetcode.com/u/poojanpatel/' },
+    { name: 'LeetCode', url: 'https://leetcode.com/u/poojan2099/' },
 ];
 
 export const MY_STACK = {
